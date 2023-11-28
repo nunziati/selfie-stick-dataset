@@ -1,0 +1,2 @@
+Paste a row for each video you want to process.
+input_videos/sala_statue_5min.mp4
