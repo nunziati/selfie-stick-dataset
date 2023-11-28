@@ -1,5 +1,7 @@
 # Selfie Stick Dataset Generator
 Script for generating a selfie-stick detection dataset, starting from videos and some selfie stick images.
+It generates the picture sampling the video frames.
+It also generates the labels in a format that is acceptable by yolo v8.
 
 ## Instalation
 ```bash
